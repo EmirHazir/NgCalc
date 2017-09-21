@@ -1,2 +1,2 @@
-![Alt text](../../assets\NgCalculate.png?raw=true "Image")
+![Alt text](../../assets/NgCalculate.png?raw=true "Image")
 
