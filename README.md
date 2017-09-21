@@ -1,2 +1,1 @@
-![Alt text](../assets/NgCalculate.png?raw=true "Image")
-
+![ngcalculate](https://user-images.githubusercontent.com/20025522/30719549-9ad428d6-9f2c-11e7-97bb-c85dfa9c8ceb.png)
